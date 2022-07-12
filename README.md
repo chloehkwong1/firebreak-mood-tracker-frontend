@@ -1,5 +1,7 @@
 # Deployment to CloudFoundry
 ### In root `cp sample.env .env`
+Edit `.env` to contain your envvars.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
