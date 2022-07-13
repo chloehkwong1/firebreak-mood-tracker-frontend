@@ -1,4 +1,12 @@
-# Deployment to CloudFoundry
+# Firebreak Mood Tracker App Frontend
+## Get App Running Locally
+### Make sure your backend is up and running first.
+### In root `cp sample.env .env`
+Edit `.env` to contain your envvars.
+### `npm install`
+### `npm start`
+
+## Deployment to CloudFoundry
 ### In root `cp sample.env .env`
 Edit `.env` to contain your envvars.
 
